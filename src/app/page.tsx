@@ -3,8 +3,7 @@ import Footer from "@/components/footer";
 import Hero from "@/components/hero";
 import Hero2 from "@/components/hero2";
 import Hero3 from "@/components/hero3";
-import { NavigationMenuDemo } from "@/components/navmenu";
-import NavMenu from "@/components/navmenu2";
+import NavMenu from "@/components/navmenu";
 import Image from "next/image";
 
 export default function Home() {
